@@ -12,5 +12,5 @@ if (natal == dia) {
     alert ('vou mudar o assunto')
 }
      alert ('eu acho q você esta feliz demais vou lançar uma frase desmotivacional')
-    alert ('tudo passa nen que seja por cima de você')
+    alert ('tudo passa nem que seja por cima de você')
     prompt ('esta feliz agora ??????')
