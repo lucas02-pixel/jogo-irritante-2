@@ -11,7 +11,6 @@ if (natal == dia) {
     let sera = prompt ('e nada de falar que errou por gramatica porque mesmo você tiver escrito errado isto tambêm conta como erro')
     alert ('vou mudar o assunto')
 }
-     alert ('eu acho q você esta feliz de mais vou lançar uma frase desmotivacional')
-    alert ('tudo passa nen que seja pr cima de você')
+     alert ('eu acho q você esta feliz demais vou lançar uma frase desmotivacional')
+    alert ('tudo passa nen que seja por cima de você')
     prompt ('esta feliz agora ??????')
-    
