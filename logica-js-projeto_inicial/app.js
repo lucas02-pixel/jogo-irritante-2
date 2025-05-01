@@ -13,4 +13,16 @@ if (natal == dia) {
 }
      alert ('eu acho q você esta feliz demais vou lançar uma frase desmotivacional')
     alert ('tudo passa nem que seja por cima de você')
-    prompt ('esta feliz agora ??????')
+    let simOuNão = prompt ('esta feliz agora ?????? responda com sim ou nao')
+    if (simOuNão == 'sim') {
+        alert('era para você estar triste que ruim')
+    } if(simOuNão == 'não') {
+        alert('que bom agora você vai ficar alem de triste irritado');
+    } if(simOuNão == 'sin'); {
+       alert('sim é com m nè e não com m');
+    } if(simOuNão == 'nao') {
+        alert('nao como assim  era para digitar não so que com assento nè');
+    }
+    if (simOuNão == '') {
+        alert ('era para vc ter digitado alguma coisa pelo menos nè ai eu q fico irritado');
+    }
