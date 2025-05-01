@@ -13,7 +13,7 @@ if (natal == dia) {
 }
      alert ('eu acho q você esta feliz demais vou lançar uma frase desmotivacional')
     alert ('tudo passa nem que seja por cima de você')
-    let simOuNão = prompt ('esta feliz agora ?????? responda com sim ou nao')
+    let simOuNão = prompt ('esta feliz agora ?????? responda com sim ou não')
     if (simOuNão == 'sim') {
         alert('era para você estar triste que ruim')
     } if(simOuNão == 'não') {
