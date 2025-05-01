@@ -19,7 +19,7 @@ if (natal == dia) {
     } if(simOuNão == 'não') {
         alert('que bom agora você vai ficar alem de triste irritado');
     } if(simOuNão == 'sin') {
-       alert('sim é com m nè e não com m');
+       alert('sim é com m nè e não com n');
     } if(simOuNão == 'nao') {
         alert('nao como assim  era para digitar não so que com assento nè');
     }
