@@ -26,3 +26,5 @@ if (natal == dia) {
     if (simOuNão == '') {
         alert ('era para vc ter digitado alguma coisa pelo menos nè ai eu q fico irritado');
     }
+    let mudançaNoTexto = document.getElementById ('h2')
+    mudançaNoTexto.innerHTML `<h2>reinicie a pagina para reiniciar a conversa. em breve versão 3</h2>`;
